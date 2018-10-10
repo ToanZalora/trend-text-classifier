@@ -82,7 +82,6 @@ module_keys         = module.keys()
 for key in default_module.keys():
     if not key in module_keys:
         module[key] = default_module[key]
-
 # makeup the data
 prepare_data(cfg, args)
 
@@ -90,6 +89,7 @@ trend_classifier = classifier.create_classifier(cfg, args.module)
 
 if trend_classifier is None:
     quit()
+
 
 args = {}
 if 'conv_output_dimension' in module.keys():
@@ -103,6 +103,7 @@ if 'conv_output_dimension' in module.keys():
                         layer_activation      = 'relu',
                         output_activation     = 'sigmoid'
                        )
+
 model, score = trend_classifier.build_model(name, 
                                             models.model3, 
                                             **args)

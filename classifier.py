@@ -303,6 +303,8 @@ class CNNTrendClassifier(TrendClassifier):
                                                         verbose = 1), 
                                           columns = self.classes
                                          )
+        # toan test
+        print(self.classes)
         self.export_detail_classification(self.config.paths.classification_output_data.format(exp_name), 
                                           self.input_data, 
                                           classified_values
@@ -436,7 +438,8 @@ class BrandBaseClassifier(TrendClassifier):
                     'days_since_activation_date', 
                     'image_url', 
                     'short_description', 
-                    'summary', 
+                    'summary',
+                    'activated_at', 
                     'color', 
                     'sub_cat_type', 
                     'color_family', 
@@ -483,7 +486,8 @@ class OccasionClassifier(TrendClassifier):
                     'days_since_activation_date', 
                     'image_url', 
                     'short_description', 
-                    'summary', 
+                    'summary',
+                    'activated_at', 
                     'color', 
                     'sub_cat_type']:
             del input[col]

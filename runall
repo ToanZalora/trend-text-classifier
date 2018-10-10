@@ -1,7 +1,8 @@
 ./run.py -f evergreen $@
 ./run.py -f evergreen2 $@
-./run.py -f occasion $@
+#./run.py -f occasion $@
 ./run.py -f color_base $@
 ./run.py -f monochrome $@
 ./run.py -f brand_base $@
-./test_publish.py $@
+./run.py -f basic $@
+./publish.py $@
