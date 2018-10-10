@@ -1,0 +1,5 @@
+./run.py -e   exclusion_17.08.csv   evergreen $@
+./run.py -e   exclusion_17.08.csv   evergreen2 $@
+./run.py -e   exclusion_17.08.csv   color_base $@
+./run.py -e   exclusion_17.08.csv   monochrome $@
+./run.py -e   exclusion_17.08.csv   brand_base $@

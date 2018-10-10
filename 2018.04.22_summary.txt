@@ -1,0 +1,38 @@
+-------------------------
+Test on 2018-04-22 12:17:36.665197
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Floral                   :   0.93/  0.89/  0.93, score: 0.91, supports: 589
+Accuracy/Precision/Recall of Other                    :   0.88/  0.86/  0.81, score: 0.84, supports: 583
+Accuracy/Precision/Recall of Lace                     :   0.93/  0.84/  0.84, score: 0.84, supports: 322
+Overral score: 0.8634979341724222
+-------------------------
+Test on 2018-04-22 12:18:43.483026
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.92/  0.86/  0.90, score: 0.88, supports: 203
+Accuracy/Precision/Recall of Denim                    :   0.98/  0.98/  0.97, score: 0.98, supports: 216
+Accuracy/Precision/Recall of Stripes                  :   0.94/  0.92/  0.91, score: 0.91, supports: 213
+Accuracy/Precision/Recall of Athleisure               :   0.98/  0.78/  0.39, score: 0.52, supports: 18
+Overral score: 0.8213725242797681
+-------------------------
+Test on 2018-04-22 12:20:33.811946
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.85/  0.79/  0.79, score: 0.79, supports: 385
+Accuracy/Precision/Recall of Work wear                :   0.88/  0.79/  0.84, score: 0.82, supports: 340
+Accuracy/Precision/Recall of Bridal                   :   0.99/  0.00/  0.00, score: 0.00, supports: 11
+Accuracy/Precision/Recall of Evening                  :   0.90/  0.92/  0.77, score: 0.84, supports: 370
+Overral score: 0.6107966482047364
+-------------------------
+Test on 2018-04-22 12:21:18.284987
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.85/  0.91/  0.73, score: 0.81, supports: 644
+Accuracy/Precision/Recall of Nude and Neutrals        :   0.96/  0.76/  0.82, score: 0.79, supports: 120
+Accuracy/Precision/Recall of Monochrome               :   0.88/  0.82/  0.95, score: 0.88, supports: 643
+Overral score: 0.8273892212247319

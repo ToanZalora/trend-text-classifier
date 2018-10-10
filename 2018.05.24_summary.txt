@@ -1,0 +1,35 @@
+-------------------------
+Test on 2018-06-11 10:39:28.522556
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.95/  0.95/  0.93, score: 0.94, supports: 484
+Accuracy/Precision/Recall of Floral                   :   0.97/  0.97/  0.93, score: 0.95, supports: 404
+Accuracy/Precision/Recall of Lace                     :   0.96/  0.87/  0.92, score: 0.89, supports: 175
+Overral score: 0.9296969353232546
+-------------------------
+Test on 2018-06-11 10:41:34.096414
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Athleisure               :   0.98/  1.00/  0.31, score: 0.47, supports: 13
+Accuracy/Precision/Recall of Other                    :   0.95/  0.97/  0.90, score: 0.94, supports: 244
+Accuracy/Precision/Recall of Denim                    :   0.98/  0.99/  0.95, score: 0.97, supports: 204
+Accuracy/Precision/Recall of Stripes                  :   0.98/  0.95/  0.96, score: 0.95, supports: 119
+Overral score: 0.8326456474221801
+-------------------------
+Test on 2018-06-11 10:45:28.580147
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.96/  0.98/  0.94, score: 0.96, supports: 98
+Accuracy/Precision/Recall of Nude and Neutrals        :   0.93/  0.96/  0.90, score: 0.93, supports: 102
+Overral score: 0.9438131313131313
+-------------------------
+Test on 2018-06-11 10:47:34.138139
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.92/  0.94/  0.90, score: 0.92, supports: 524
+Accuracy/Precision/Recall of Monochrome               :   0.91/  0.91/  0.90, score: 0.90, supports: 460
+Overral score: 0.9118670691635722

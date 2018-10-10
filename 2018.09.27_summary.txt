@@ -1,0 +1,44 @@
+-------------------------
+Test on 2018-09-27 07:16:17.219771
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.95/  0.95/  0.94, score: 0.95, supports: 233
+Accuracy/Precision/Recall of Floral                   :   0.96/  0.96/  0.93, score: 0.95, supports: 208
+Accuracy/Precision/Recall of Lace                     :   0.95/  0.90/  0.72, score: 0.80, supports: 75
+Overral score: 0.8973609170089922
+-------------------------
+Test on 2018-09-27 07:21:33.842535
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.91/  0.92/  0.89, score: 0.90, supports: 245
+Accuracy/Precision/Recall of Floral                   :   0.95/  0.94/  0.92, score: 0.93, supports: 194
+Accuracy/Precision/Recall of Lace                     :   0.94/  0.86/  0.73, score: 0.79, supports: 77
+Overral score: 0.8753275795729382
+-------------------------
+Test on 2018-09-27 07:23:10.718136
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Athleisure               :   0.98/  0.00/  0.00, score: 0.00, supports: 4
+Accuracy/Precision/Recall of Other                    :   0.91/  0.89/  0.87, score: 0.88, supports: 101
+Accuracy/Precision/Recall of Denim                    :   0.97/  0.99/  0.92, score: 0.96, supports: 92
+Accuracy/Precision/Recall of Stripes                  :   0.96/  0.95/  0.87, score: 0.91, supports: 63
+Overral score: 0.6860367722165475
+-------------------------
+Test on 2018-09-27 07:24:16.572406
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.93/  1.00/  0.85, score: 0.92, supports: 47
+Accuracy/Precision/Recall of Nude and Neutrals        :   0.94/  0.90/  1.00, score: 0.95, supports: 54
+Overral score: 0.9334543254688445
+-------------------------
+Test on 2018-09-27 07:25:40.863869
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.91/  0.96/  0.87, score: 0.91, supports: 297
+Accuracy/Precision/Recall of Monochrome               :   0.90/  0.92/  0.86, score: 0.89, supports: 251
+Overral score: 0.9003219509721906
