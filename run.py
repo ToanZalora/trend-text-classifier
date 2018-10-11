@@ -107,6 +107,7 @@ if 'conv_output_dimension' in module.keys():
 model, score = trend_classifier.build_model(name, 
                                             models.model3, 
                                             **args)
+
 trend_classifier.classify(name, model)
 
 ## Experient mode

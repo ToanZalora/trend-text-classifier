@@ -1,0 +1,85 @@
+-------------------------
+Test on 2018-10-11 06:24:37.524485
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.86/  0.87/  0.81, score: 0.84, supports: 94
+-------------------------
+Test on 2018-10-11 06:29:38.746507
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.81/  0.82/  0.81, score: 0.82, supports: 110
+Accuracy/Precision/Recall of Bridal                   :   0.99/  0.00/  0.00, score: 0.00, supports: 3
+Accuracy/Precision/Recall of Evening                  :   0.91/  0.92/  0.79, score: 0.85, supports: 70
+Accuracy/Precision/Recall of Work wear                :   0.89/  0.77/  0.49, score: 0.60, supports: 35
+Overral score: 0.5647897089229779
+-------------------------
+Test on 2018-10-11 06:34:07.944758
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.95/  0.94/  0.94, score: 0.94, supports: 203
+Accuracy/Precision/Recall of Floral                   :   0.96/  0.97/  0.92, score: 0.95, supports: 169
+Accuracy/Precision/Recall of Lace                     :   0.95/  0.88/  0.79, score: 0.83, supports: 67
+Overral score: 0.9079535454253104
+-------------------------
+Test on 2018-10-11 06:34:53.819382
+Parameters
+	Test set: 0.2
+	Epocs: 20
+-------------------------
+Test on 2018-10-11 06:35:32.699995
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.80/  0.82/  0.71, score: 0.76, supports: 91
+Accuracy/Precision/Recall of Bridal                   :   0.99/  1.00/  0.33, score: 0.50, supports: 3
+Accuracy/Precision/Recall of Evening                  :   0.90/  0.95/  0.77, score: 0.85, supports: 74
+Accuracy/Precision/Recall of Work wear                :   0.84/  0.81/  0.31, score: 0.45, supports: 42
+Overral score: 0.6409320032696557
+-------------------------
+Test on 2018-10-11 06:36:32.628905
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.92/  0.98/  0.87, score: 0.92, supports: 259
+Accuracy/Precision/Recall of Monochrome               :   0.92/  0.92/  0.89, score: 0.91, supports: 225
+Overral score: 0.9158922941276941
+-------------------------
+Test on 2018-10-11 06:39:37.395596
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.93/  0.91/  0.94, score: 0.92, supports: 208
+Accuracy/Precision/Recall of Floral                   :   0.96/  0.97/  0.93, score: 0.95, supports: 157
+Accuracy/Precision/Recall of Lace                     :   0.93/  0.94/  0.64, score: 0.76, supports: 73
+Overral score: 0.8788167354807049
+-------------------------
+Test on 2018-10-11 06:41:02.818143
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Athleisure               :   0.99/  0.00/  0.00, score: 0.00, supports: 3
+Accuracy/Precision/Recall of Other                    :   0.90/  0.93/  0.84, score: 0.88, supports: 97
+Accuracy/Precision/Recall of Denim                    :   0.97/  0.96/  0.96, score: 0.96, supports: 74
+Accuracy/Precision/Recall of Stripes                  :   0.93/  0.95/  0.75, score: 0.84, supports: 53
+Overral score: 0.6704998763065124
+-------------------------
+Test on 2018-10-11 06:42:15.343684
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.84/  0.84/  0.76, score: 0.80, supports: 86
+Accuracy/Precision/Recall of Bridal                   :   1.00/  1.00/  1.00, score: 1.00, supports: 2
+Accuracy/Precision/Recall of Evening                  :   0.86/  0.87/  0.72, score: 0.79, supports: 75
+Accuracy/Precision/Recall of Work wear                :   0.84/  0.78/  0.40, score: 0.53, supports: 45
+Overral score: 0.7788197362147581
+-------------------------
+Test on 2018-10-11 06:44:58.370826
+Parameters
+	Test set: 0.2
+	Epocs: 20
+Accuracy/Precision/Recall of Other                    :   0.92/  0.97/  0.88, score: 0.92, supports: 258
+Accuracy/Precision/Recall of Monochrome               :   0.92/  0.92/  0.90, score: 0.91, supports: 213
+Overral score: 0.9163584171386738

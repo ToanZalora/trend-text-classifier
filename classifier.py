@@ -278,7 +278,7 @@ class CNNTrendClassifier(TrendClassifier):
         selected_labels_data   = np.asarray(self.sample_data[label_columns])
 
         model = model or model_creator(self, **args)
-        
+
         selector, classified_values, _, score = self.__validate(exp_name, 
                                                                 model, 
                                                                 self.sample_sequences, 
@@ -303,8 +303,6 @@ class CNNTrendClassifier(TrendClassifier):
                                                         verbose = 1), 
                                           columns = self.classes
                                          )
-        # toan test
-        print(self.classes)
         self.export_detail_classification(self.config.paths.classification_output_data.format(exp_name), 
                                           self.input_data, 
                                           classified_values
@@ -321,7 +319,6 @@ class CNNTrendClassifier(TrendClassifier):
         """
         if self.config.runtime.seed > 0:
             np.random.seed(self.config.runtime.seed)
-
         selector  = np.random.random(len(data))
         test_size = self.config.runtime.test_set_size
 
@@ -330,6 +327,7 @@ class CNNTrendClassifier(TrendClassifier):
                          data[selector > test_size], 
                          labels[selector > test_size]
                          )
+
         classified_values = model.predict(data[selector <= test_size], 
                                           verbose = 1
                                           )
